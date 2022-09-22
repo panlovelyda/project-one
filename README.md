@@ -22,5 +22,10 @@ Basic Data Summary - analysis by gender/age/behaviour/socio-economic status
 3. Age proportion on alcohol consumption
 
 Student Behaviour Analysis---
+How does students’ alcohol consumption impact a student's grade? -
+  As it is shown in the pie charts, during the weekdays, nearly 70 % of the students consumed quite a small amount of alcohol, on the contrary, the percentage of students who drank very little on the weekend was around 38%.
+ Based on our data set , we can see that weekday alcohol consumption is way less hence scoring a higher percentage as per, which therefore implies students drink less over weekdays and thus have a higher chance to study and make better grades. As can be seen in their G3 math and G3 Portuguese
+Unlike weekends, students tend to drink more, and thus have less time in studies, but it would appear the more social interaction, their Portuguese grades are higher. But there is a complete opposite with their Math grades, the more alcohol they drink , the less time they have to study hence affecting their Math grades.
+
 
 
