@@ -12,7 +12,7 @@ Data were obtained in a survey of students' Maths and Portuguese Language course
 * **Resource Files:** /Resources/student-mat.csv & student-por.csv
 * **Output Files:** /Output 
     >Includes figures and the merged csv file
- * **Powderpoint **   
+* **Powwerpoint:** https://docs.google.com/presentation/d/1ETuuUV4X45p2hEPTIxDXOhQpVvVX_HOOjIxTD0aeM1U/edit?usp=sharing   
 
 
 ### **Research Questions**
